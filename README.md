@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Paper Dashboard Angular](https://www.creative-tim.com/product/paper-dashboard-angular)
 [![version][version-badge]][CHANGELOG]
 [![license][license-badge]][LICENSE]
@@ -152,3 +153,6 @@ Instagram: <https://instagram.com/creativetimofficial>
 [version-badge]: https://img.shields.io/badge/version-1.0.0-blue.svg
 
 [license-badge]: https://img.shields.io/badge/license-MIT-blue.svg
+=======
+# assistive-front
+>>>>>>> 2132b13b2ce80ea7c27097d7064ee7749fe50bc4
